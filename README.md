@@ -227,8 +227,8 @@ aggregations, communication between services, testing and Docker.
 
 ## 📬 Contact
 
-- **GitHub:** [[@YOUR-USERNAME](https://github.com/YOUR-USERNAME)](https://github.com/Nassim29-del)
-- **LinkedIn:** [[Your Name](https://www.linkedin.com/in/YOUR-LINKEDIN/)](https://www.linkedin.com/in/nassim-bidel-15065b417/)
+- **GitHub:** (https://github.com/YOUR-USERNAME)](https://github.com/Nassim29-del)
+- **LinkedIn:** (https://www.linkedin.com/in/YOUR-LINKEDIN/)](https://www.linkedin.com/in/nassim-bidel-15065b417/)
 
 ⭐ If you find this repository helpful, feel free to give it a star!
 
